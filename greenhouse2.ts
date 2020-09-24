@@ -1,6 +1,6 @@
-//% color=105 weight=100 icon="\uf299" block="Greenhouse kit"
+//% color=21.63 weight=100 icon="\uf299" block="Greenhouse kit"
 //% groups='["SD CARD"]'
-namespace greenhouse
+namespace greenhouse2
 {
 	
 	// IM01 variables start
